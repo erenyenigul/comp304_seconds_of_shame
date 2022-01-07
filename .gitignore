@@ -1,0 +1,8 @@
+main
+a.out
+*.docx
+*.vscode
+test.c
+.DS_Store
+a.out
+.gitattributes
